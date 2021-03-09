@@ -24,7 +24,7 @@ Then the following command will open a browser to authenticate you. There are ot
 
 <p>
 If you have used Workers with this account before the configurations
-will show up in <pre>/workers</p>.
+will show up in <pre>/workers</pre>.
 </p>
 
 </body>
